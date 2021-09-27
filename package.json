@@ -1,6 +1,6 @@
 {
-  "name": "ttag",
-  "version": "2.0.0",
+  "name": "ttag-react",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "keywords": [
@@ -24,14 +24,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ttag-org/ttag.git"
+    "url": "https://github.com/morganney/ttag.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ttag-org/ttag.git/issues"
+    "url": "https://github.com/morganney/ttag.git/issues"
   },
-  "homepage": "https://github.com/ttag-org/ttag.git#readme",
+  "homepage": "https://github.com/morganney/ttag.git#readme",
   "types": "types",
   "files": [
     "dist",
